@@ -54,10 +54,16 @@ AI Chatbot that "Talks" with Github Repositories.
 - Realtime QnA solution to get instant repository specific answers 
 
 ### 🛒 AI-PantryApp
-A Swift-based iOS app for real-time restaurant discovery.
+A webapp for real-time pantry management.
 - Integrated Firebase for backend operations
 - Image Recognition using coco-ssd for logging pantry items 
 - smooth and modern ui
+  
+### 🛒 Restaurant Finder
+A iOS application for real-time restaurant finding.
+- Integrated Firebase for backend operations (autentication and firestore as database)
+- Used yelp's API to get the restaurant data 
+- Proper full stack application with user centric frontend.
 
 ### 💼 ReactPortfolio
 A modern, space-themed portfolio website.
