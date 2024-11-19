@@ -69,7 +69,7 @@ A modern, space-themed portfolio website.
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanPhal&layout=compact&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanPhal&layout=compact&theme=monokai)
 
 </div>
 
