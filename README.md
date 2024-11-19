@@ -1,6 +1,3 @@
-
-
-
 [![](https://visitcount.itsvg.in/api?id=VihaanPhal&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <div align="center">
@@ -9,7 +6,7 @@
   ### Full Stack Developer | iOS/Android Developer | .NET Developer 
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=A020F0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;iOS/Android+Developer;.NET+DeveloperProblem+Solver;Tech+Enthusiast;Professional+Cricketer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=98FF98&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;iOS/Android+Developer;.NET+DeveloperProblem+Solver;Tech+Enthusiast;Professional+Cricketer" alt="Typing SVG" />
   </p>
 </div>
 
