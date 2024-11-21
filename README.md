@@ -82,8 +82,9 @@ A modern, space-themed portfolio website.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-A020F0?style=for-the-badge&logo=react&logoColor=white)](https://vihaanphal.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vihaanphal)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VihaanPhal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vihaanphal)
+
 
 </div>
 
