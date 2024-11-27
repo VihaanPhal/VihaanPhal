@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=VihaanPhal&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-<div align="center">
+<div align="center" >
   
   # Hi, I am Vihaan Phal 👋
   ### Full Stack Developer | iOS/Android Developer | .NET Developer 
