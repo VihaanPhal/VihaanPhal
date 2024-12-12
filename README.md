@@ -15,8 +15,4 @@
 ### Tech Arsenal 🛠️
 ![](https://skillicons.dev/icons?i=cpp,java,python,react,nextjs,typescript,nodejs,dotnet)
 
-<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VihaanPhal&theme=dark&hide_border=true&card_width=400)
-
-</div>
