@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Vihaan Phal | Full-Stack Maestro
+# 👋 Vihaan Phal | Full-Stack Developer 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-A020F0?style=flat-square&logo=react&logoColor=white)](https://vihaanphal.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vihaanphal)
